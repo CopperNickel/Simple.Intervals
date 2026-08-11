@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Simple.Ranges.Test/Simple.Intervals.Test.csproj" />
+  <Project Path="Simple.Ranges/Simple.Intervals.csproj" />
+</Solution>
