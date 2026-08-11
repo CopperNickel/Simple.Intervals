@@ -10,6 +10,7 @@
     <Title>Simple Intervals</Title>
     <Description>Simple Intervals library</Description>
     <Copyright>Copyright (c) 2026 Dmitrii Bychenko</Copyright>
+    <PackageProjectUrl>https://github.com/CopperNickel/Simple.Intervals.git</PackageProjectUrl>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
